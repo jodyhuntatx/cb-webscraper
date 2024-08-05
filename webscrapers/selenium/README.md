@@ -1,0 +1,8 @@
+- Get your Chrome version: chrome://version
+- If Chrome version is 114 or older:
+  - Go here and get URL for your version & platform:
+    - https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json
+- else
+  - Go here and get URL for stable version:
+    - https://googlechromelabs.github.io/chrome-for-testing/
+- wget <url>
